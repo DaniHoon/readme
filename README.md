@@ -11,6 +11,8 @@
 - [Installation](#Installation)
 - [Running Tests](#running-tests)
 - [API Reference](#api-reference)
+- [프로젝트 진행 및 이슈 관리](#프로젝트-진행-및-이슈-관리)
+- [구현과정(설계 및 의도)](#구현과정(설계-및-의도))
 - [TIL 및 회고](#til-및-회고)
 - [Authors](#authors)
 - [References](#references)
@@ -66,7 +68,7 @@ To run tests, run the following command
 <summary>Get all items - click</summary>
 
 #### Request
-```http
+```javascript
   GET /api/items
 ```
 
@@ -92,7 +94,7 @@ To run tests, run the following command
 <summary>Get all items - click</summary>
 
 #### Request
-```http
+```javascript
   GET /api/items
 ```
 
@@ -118,7 +120,7 @@ To run tests, run the following command
 <summary>Get all items - click</summary>
 
 #### Request
-```http
+```javascript
   GET /api/items
 ```
 
@@ -139,26 +141,76 @@ To run tests, run the following command
     },...
     ]
 ```
+</details>
+
+## 프로젝트 진행 및 이슈 관리
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://bow-hair-db3.notion.site/cdb6eb37500b4580a80252ea3d7c3963?pvs=4)
+
+## 구현과정(설계 및 의도) 
+(노션, 블로그 등의 페이지로 안내 가능)
+<details>
+<summary>유저 모델과 실행결과 모델관의 관계 설정 시 00 고려 - click</summary>
+
+- 의존성 문제
+    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+    2. Enter the name of the badge you need.
+    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
+- 00가 00 하는 문제
+
+</details>
+
+<details>
+<summary>00 구현 시 동시성 고려 - click</summary>
+
+- 의존성 문제
+    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+    2. Enter the name of the badge you need.
+    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
+- 00가 00 하는 문제
+
+</details>
+
+<details>
+<summary>RESTful API 설계 - click</summary>
+
+- 의존성 문제
+    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+    2. Enter the name of the badge you need.
+    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
+- 00가 00 하는 문제
+
 </details>
     
 ## TIL 및 회고
 
 <details>
 <summary>Django ORM 조회 시 발생하는 00 버그 - click</summary>
+
 - 의존성 문제
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     2. Enter the name of the badge you need.
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - 00가 00 하는 문제
+
 </details>
+
 <details>
 <summary>Django ORM 조회 시 발생하는 00 버그 - click</summary>
+
 - 의존성 문제
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     2. Enter the name of the badge you need.
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
+
 - 00가 00 하는 문제
+
 </details>
+
+(또는 블로그, 노션 등 링크 연동)
+
+- [Django ORM 조회 시 발생하는 00 버그 발생](#google.com)
+- [00 서비스 개발 회고록](#google.com)
 
 ## Authors
 
