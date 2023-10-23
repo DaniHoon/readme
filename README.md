@@ -61,7 +61,7 @@ To run tests, run the following command
 ## API Reference
 
 <details>
-<summary>**Get all items** - click</summary>
+<summary>Get all items - click</summary>
 
 #### Request
 ```http
@@ -87,7 +87,7 @@ To run tests, run the following command
 ```
 </details>
 <details>
-<summary>**Get all items** - click</summary>
+<summary>Get all items - click</summary>
 
 #### Request
 ```http
@@ -113,7 +113,7 @@ To run tests, run the following command
 ```
 </details>
 <details>
-<summary>**Get all items** - click</summary>
+<summary>Get all items - click</summary>
 
 #### Request
 ```http
@@ -142,27 +142,22 @@ To run tests, run the following command
 ## TIL 및 회고
 
 <details>
-<summary>**Django ORM 조회 시 발생하는 00 버그** - click</summary>
-
-
+<summary>Django ORM 조회 시 발생하는 00 버그 - click</summary>
 - 의존성 문제
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     2. Enter the name of the badge you need.
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - 00가 00 하는 문제
-
 </details>
 <details>
-<summary>**Django ORM 조회 시 발생하는 00 버그** - click</summary>
-
-
+<summary>Django ORM 조회 시 발생하는 00 버그 - click</summary>
 - 의존성 문제
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     2. Enter the name of the badge you need.
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - 00가 00 하는 문제
-
 </details>
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
