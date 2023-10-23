@@ -28,12 +28,14 @@
     1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
+<br/>
 
 ## Skils
 가상환경: ![Static Badge](https://img.shields.io/badge/Conda-green)<br/>언어 및 프레임워크: ![Static Badge](https://img.shields.io/badge/Python-3.10-blue) ![Static Badge](https://img.shields.io/badge/Django-REST-red)<br/>
 데이터 베이스: ![Static Badge](https://img.shields.io/badge/Postgresql-9.2.4-blue) <br/>
 배포 : ![Static Badge](https://img.shields.io/badge/Docker-039BC6) ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) ![Static Badge](https://img.shields.io/badge/Github-Actions-black)  <br/> ETC : ![Static Badge](https://img.shields.io/badge/Celery-black) ![Static Badge](https://img.shields.io/badge/Redis-red)
 
+<br/>
 
 ## Installation
 
@@ -49,7 +51,8 @@ Install my-project with npm
   cd my-project
 ```
     
-    
+<br/>
+
 ## Running Tests
 
 To run tests, run the following command
@@ -61,6 +64,7 @@ To run tests, run the following command
 > Coverage ScreenShot ![Static Badge](https://img.shields.io/badge/Test_Passed-20/20-green)
 ![coverage](https://user-images.githubusercontent.com/48683566/56673924-0b84ae00-66b1-11e9-93ac-fb76ff96a5a0.png)
 
+<br/>
 
 ## API Reference
 
@@ -143,9 +147,13 @@ To run tests, run the following command
 ```
 </details>
 
+<br/>
+
 ## 프로젝트 진행 및 이슈 관리
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://bow-hair-db3.notion.site/cdb6eb37500b4580a80252ea3d7c3963?pvs=4)
+
+<br/>
 
 ## 구현과정(설계 및 의도) 
 (노션, 블로그 등의 페이지로 안내 가능)
@@ -181,7 +189,9 @@ To run tests, run the following command
 - 00가 00 하는 문제
 
 </details>
-    
+
+<br/>
+
 ## TIL 및 회고
 
 <details>
@@ -212,13 +222,15 @@ To run tests, run the following command
 - [Django ORM 조회 시 발생하는 00 버그 발생](#google.com)
 - [00 서비스 개발 회고록](#google.com)
 
+<br/>
+
 ## Authors
 
 - [@user1](https://www.github.com/2)
 - [@user2](https://www.github.com/2)
 - [@user3](https://www.github.com/2)
 
-
+<br/>
 
 ## References
 
