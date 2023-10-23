@@ -8,7 +8,7 @@
 ## Table of Contents
 - [개요](#개요)
 - [Skils](#skils)
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Running Tests](#running-tests)
 - [API Reference](#api-reference)
 - [프로젝트 진행 및 이슈 관리](#프로젝트-진행-및-이슈-관리)
@@ -145,9 +145,9 @@ To run tests, run the following command
 
 ## 프로젝트 진행 및 이슈 관리
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://external.ink?to=/bow-hair-db3.notion.site/cdb6eb37500b4580a80252ea3d7c3963?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://bow-hair-db3.notion.site/cdb6eb37500b4580a80252ea3d7c3963?pvs=4)
 
-## 구현과정(설계 및 의도)
+## 구현과정(설계 및 의도) 
 (노션, 블로그 등의 페이지로 안내 가능)
 <details>
 <summary>유저 모델과 실행결과 모델관의 관계 설정 시 00 고려 - click</summary>
@@ -209,22 +209,22 @@ To run tests, run the following command
 
 (또는 블로그, 노션 등 링크 연동)
 
-- [Django ORM 조회 시 발생하는 00 버그 발생](https://external.ink?to=/google.com)
-- [00 서비스 개발 회고록](https://external.ink?to=/google.com)
+- [Django ORM 조회 시 발생하는 00 버그 발생](#google.com)
+- [00 서비스 개발 회고록](#google.com)
 
 ## Authors
 
-- [@user1](https://external.ink?to=/www.github.com/2)
-- [@user2](https://external.ink?to=/www.github.com/2)
-- [@user3](https://external.ink?to=/www.github.com/2)
+- [@user1](https://www.github.com/2)
+- [@user2](https://www.github.com/2)
+- [@user3](https://www.github.com/2)
 
 
 
 ## References
 
- - [Awesome Readme Templates](https://external.ink?to=/awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://external.ink?to=/github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://external.ink?to=/bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 
