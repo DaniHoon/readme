@@ -1,25 +1,21 @@
 ![logo](https://static.wanted.co.kr/images/events/3178/58ac3248.jpg)
 
-# 0000 웹 서비스
-Add badges to your Profile and Projects.
+# 메일 정리 자동화 웹서비스
+고객의 메세지를 태그, 스팸 처리 등 자동으로 분류해주는 웹 서비스
 
 <br/>
 
 ## Table of Contents
-- [Table of contents](#table-of-contents)
+- [개요](#개요)
 - [Skils](#skils)
-- [Usage](#usage)
 - [Installation](#Installation)
-- [TIL](#til)
+- [Running Tests](#running-tests)
+- [API Reference](#api-reference)
+- [TIL 및 회고](#til-및-회고)
+- [Authors](#authors)
 - [References](#references)
 
 <br/>
-
-## Skils
-가상환경: ![Static Badge](https://img.shields.io/badge/Conda-green)<br/>언어 및 프레임워크: ![Static Badge](https://img.shields.io/badge/Python-3.10-blue) ![Static Badge](https://img.shields.io/badge/Django-REST-red)<br/>
-데이터 베이스: ![Static Badge](https://img.shields.io/badge/Postgresql-9.2.4-blue) <br/>
-배포 : ![Static Badge](https://img.shields.io/badge/Docker-039BC6) ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) ![Static Badge](https://img.shields.io/badge/Github-Actions-black) 
-
 
 
 ## 개요
@@ -29,6 +25,12 @@ Add badges to your Profile and Projects.
     1. Enter the name of the badge you need.
     1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
+
+
+## Skils
+가상환경: ![Static Badge](https://img.shields.io/badge/Conda-green)<br/>언어 및 프레임워크: ![Static Badge](https://img.shields.io/badge/Python-3.10-blue) ![Static Badge](https://img.shields.io/badge/Django-REST-red)<br/>
+데이터 베이스: ![Static Badge](https://img.shields.io/badge/Postgresql-9.2.4-blue) <br/>
+배포 : ![Static Badge](https://img.shields.io/badge/Docker-039BC6) ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) ![Static Badge](https://img.shields.io/badge/Github-Actions-black)  <br/> ETC : ![Static Badge](https://img.shields.io/badge/Celery-black) ![Static Badge](https://img.shields.io/badge/Redis-red)
 
 
 ## Installation
